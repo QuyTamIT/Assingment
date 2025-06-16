@@ -34,19 +34,19 @@
                         Console.WriteLine(" Please enter your number of people:");
                         numberOfPeople = int.Parse(Console.ReadLine());
                         double totalPrice = CaculateForHouseholdCustomer(numberOfPeople, consumption);
-                        totalMaterBill = GetTotalWaterBillWithFee(totalPrice);
+                        totalWaterBill = GetTotalWaterBillWithFee(totalPrice);
                         break;
                     case "2":
                         normalPrice = 9955;
-                        totalMaterBill = GetTotalWaterBillWithFee(consumption * normalPrice);
+                        totalWaterBill = GetTotalWaterBillWithFee(consumption * normalPrice);
                         break;
                     case "3":
                         normalPrice = 11615;
-                        totalMaterBill = GetTotalWaterBillWithFee(consumption * normalPrice);
+                        totalWaterBill = GetTotalWaterBillWithFee(consumption * normalPrice);
                         break;
                     case "4":
                         normalPrice = 22068;
-                        totalMaterBill = GetTotalWaterBillWithFee(consumption * normalPrice);
+                        totalWaterBill = GetTotalWaterBillWithFee(consumption * normalPrice);
                         break;
                     default:
                         Console.WriteLine("Type of customer is invalid !!! Please enter again.");
