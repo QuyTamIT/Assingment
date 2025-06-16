@@ -21,7 +21,7 @@
             thisMonthOfwater = double.Parse(Console.ReadLine());
 
             Console.WriteLine("please enter your type of customer: ");
-            Console.WriteLine("---------------------");
+            Console.WriteLine("--------------------");
             Console.WriteLine("1. Household customer");
             Console.WriteLine("2. Administrative agency, public services");
             Console.WriteLine("3. Production units");
