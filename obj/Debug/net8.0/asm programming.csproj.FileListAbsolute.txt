@@ -1,0 +1,14 @@
+F:\visual 2022\asm programming\asm programming\bin\Debug\net8.0\asm programming.exe
+F:\visual 2022\asm programming\asm programming\bin\Debug\net8.0\asm programming.deps.json
+F:\visual 2022\asm programming\asm programming\bin\Debug\net8.0\asm programming.runtimeconfig.json
+F:\visual 2022\asm programming\asm programming\bin\Debug\net8.0\asm programming.dll
+F:\visual 2022\asm programming\asm programming\bin\Debug\net8.0\asm programming.pdb
+F:\visual 2022\asm programming\asm programming\obj\Debug\net8.0\asm programming.GeneratedMSBuildEditorConfig.editorconfig
+F:\visual 2022\asm programming\asm programming\obj\Debug\net8.0\asm programming.AssemblyInfoInputs.cache
+F:\visual 2022\asm programming\asm programming\obj\Debug\net8.0\asm programming.AssemblyInfo.cs
+F:\visual 2022\asm programming\asm programming\obj\Debug\net8.0\asm programming.csproj.CoreCompileInputs.cache
+F:\visual 2022\asm programming\asm programming\obj\Debug\net8.0\asm programming.dll
+F:\visual 2022\asm programming\asm programming\obj\Debug\net8.0\refint\asm programming.dll
+F:\visual 2022\asm programming\asm programming\obj\Debug\net8.0\asm programming.pdb
+F:\visual 2022\asm programming\asm programming\obj\Debug\net8.0\asm programming.genruntimeconfig.cache
+F:\visual 2022\asm programming\asm programming\obj\Debug\net8.0\ref\asm programming.dll
